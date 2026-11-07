@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Fridge Wars</title>
+  <meta name="theme-color" content="#14100e">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍳</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bungee&family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,800;1,9..144,400&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="titlecard no-print">
+    <div class="onair" id="onair"><span class="dot"></span><span id="live-label">LIVE</span></div>
+    <p class="kicker">Three chefs · One fridge · No mercy</p>
+    <h1 class="logo" aria-label="Fridge Wars">
+      <span class="logo-top">FRIDGE</span>
+      <span class="logo-bottom">WARS</span>
+    </h1>
+    <p class="sub">Judged live by <strong>the Fridge Critic</strong></p>
+    <div class="stripe" aria-hidden="true"><i class="s-nonna"></i><i class="s-blaze"></i><i class="s-zen"></i></div>
+  </header>
+
+  <main>
+    <section id="leaderboard" class="leaderboard no-print" aria-label="Leaderboard"></section>
+    <section id="stage" class="stage no-print" aria-live="polite"><p class="loading">Warming up the stoves…</p></section>
+    <section id="recipe" class="recipe"></section>
+    <section id="history" class="history no-print" aria-label="Earlier battles"></section>
+  </main>
+
+  <footer class="site-footer no-print">
+    Fridge Wars · updates live from the critic's scorecard
+  </footer>
+
+  <div id="fx" class="fx no-print" aria-hidden="true"></div>
+  <div id="banner" class="banner no-print" role="status" aria-live="assertive"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>

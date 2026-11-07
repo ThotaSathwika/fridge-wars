@@ -1,0 +1,423 @@
+{
+  "title": "Fridge Wars",
+  "battles": [
+    {
+      "id": 1,
+      "created_at": "2026-11-07T15:37:38+00:00",
+      "ingredients": [
+        "eggs",
+        "leftover rice",
+        "half an onion",
+        "cheese",
+        "tomato",
+        "chili sauce"
+      ],
+      "entries": [
+        {
+          "chef": "chef-nonna",
+          "dish": "Nonna's Cheesy Rice Cakes with Spicy Tomato Sugo",
+          "tagline": "Crispy golden rice cakes with molten cheese hiding inside, on a little sweet-and-spicy tomato sauce. Mangia, tesoro!",
+          "uses": [
+            "eggs",
+            "leftover rice",
+            "onion",
+            "cheese",
+            "tomato",
+            "chili sauce",
+            "flour",
+            "butter",
+            "oil",
+            "salt",
+            "pepper",
+            "sugar"
+          ],
+          "steps": [
+            "Chop the onion fine. Mix half with the rice, 1 beaten egg, 2 tbsp flour, grated cheese, salt and pepper.",
+            "With wet hands make 4 balls, push a cube of cheese into each, close and flatten into thick cakes. Dust with flour.",
+            "Pan-fry in oil on medium heat, 4 minutes a side, until golden and the cheese is melting.",
+            "In the same pan melt butter, soften the rest of the onion, add chopped tomato, chili sauce, a pinch of sugar and salt. Simmer 5 minutes.",
+            "Spoon the sugo onto the plate, cakes on top, more cheese on top of that."
+          ],
+          "time_minutes": 25,
+          "trash_talk": "chef-blaze, cara, more chili sauce won't fix it. Nonna has been feeding a whole village since before your stove was invented.",
+          "scores": {
+            "taste": 9,
+            "creativity": 7,
+            "ease": 6
+          },
+          "total": 22,
+          "critic_note": "A molten-cheese hug, but stuffing cakes by hand is a 25-minute commitment."
+        },
+        {
+          "chef": "chef-blaze",
+          "dish": "Volcano Crispy Rice Tostadas",
+          "tagline": "Shatter-crunch rice tostadas with gooey cheese, a runny egg and chili-tomato salsa on top: street food that bites back.",
+          "uses": [
+            "eggs",
+            "leftover rice",
+            "onion",
+            "cheese",
+            "tomato",
+            "chili sauce",
+            "flour",
+            "oil",
+            "butter",
+            "salt",
+            "pepper",
+            "sugar"
+          ],
+          "steps": [
+            "Dice the tomato and half the onion; toss with chili sauce, salt and sugar for salsa.",
+            "Mix the rice with 1 beaten egg, 2 tbsp flour, the rest of the onion, salt and pepper.",
+            "Press into thin patties and fry in hot oil, 3-4 min a side, until deep golden and crunchy.",
+            "Pile on grated cheese and cover the pan 1 min until melted.",
+            "Fry the remaining eggs sunny-side up in butter with crispy edges.",
+            "Stack: tostada, egg, salsa, one more drizzle of chili sauce."
+          ],
+          "time_minutes": 20,
+          "trash_talk": "chef-nonna, I know you're slow-cooking a frittata over there, but my food truck has served the whole line before your oven's even hot.",
+          "scores": {
+            "taste": 9,
+            "creativity": 8,
+            "ease": 8
+          },
+          "total": 25,
+          "critic_note": "Crunch, goo, runny yolk and a fresh salsa that uses every last thing in the fridge."
+        },
+        {
+          "chef": "chef-zen",
+          "dish": "Ember Over Still Water",
+          "tagline": "A crisp rice disc, a trembling yolk, a tomato tide touched with fire.",
+          "uses": [
+            "leftover rice",
+            "eggs",
+            "onion",
+            "cheese",
+            "tomato",
+            "chili sauce",
+            "salt",
+            "pepper",
+            "oil",
+            "butter",
+            "sugar"
+          ],
+          "steps": [
+            "Grate the tomato, discard skin, season with salt and a pinch of sugar; warm gently.",
+            "Press the rice into a hot oiled pan as one thin disc; leave 6 min until amber.",
+            "Scatter grated cheese on top, flip once and let it lace and crisp.",
+            "Slice the onion paper-thin and fry in oil until golden; drain and salt.",
+            "Fry one egg in butter, low heat, covered: white set, yolk liquid.",
+            "Melt butter with chili sauce until glossy; plate tomato, rice disc, egg, chili butter, onion crown."
+          ],
+          "time_minutes": 18,
+          "trash_talk": "chef-nonna will use all six ingredients and still say less. chef-blaze will burn them, and call that a flavour.",
+          "scores": {
+            "taste": 8,
+            "creativity": 9,
+            "ease": 6
+          },
+          "total": 23,
+          "critic_note": "A gorgeous plate of poetry. Six separate components for a weeknight, though? Ambitious."
+        }
+      ],
+      "winner": "chef-blaze",
+      "verdict": "The tostada came in loud and walked off with the crown. Nonna gave us comfort and Zen gave us art, but Blaze gave us a crunch I could hear from the judges' table. Street food has taken the palace.",
+      "recipe_card": {
+        "dish": "Volcano Crispy Rice Tostadas",
+        "chef": "chef-blaze",
+        "serves": 2,
+        "time_minutes": 20,
+        "ingredients": [
+          "2 cups leftover rice",
+          "3 eggs",
+          "1/2 onion",
+          "1 tomato",
+          "1/2 cup grated cheese",
+          "2 tbsp chili sauce",
+          "2 tbsp flour",
+          "3 tbsp oil",
+          "1 tbsp butter",
+          "Pinch of salt, pepper and sugar"
+        ],
+        "steps": [
+          "Dice the tomato and half the onion. Toss with 1 tbsp chili sauce, a pinch of salt and a pinch of sugar for the salsa.",
+          "Mix the rice with 1 beaten egg, the flour, the rest of the onion (finely chopped), salt and pepper.",
+          "Press into 4 thin patties and fry in hot oil, 3-4 min a side, until deep golden and crunchy.",
+          "Top with cheese, cover the pan for 1 min until it melts.",
+          "Fry the other 2 eggs sunny-side up in butter until the edges are crispy.",
+          "Stack: tostada, egg, salsa, a final drizzle of chili sauce."
+        ],
+        "tip": "Press the patties thin and don't touch them for the first 3 minutes. That's where the shatter comes from."
+      }
+    },
+    {
+      "id": 2,
+      "created_at": "2026-11-07T15:39:27+00:00",
+      "ingredients": [
+        "leftover rice",
+        "half an onion",
+        "tomato",
+        "chili sauce"
+      ],
+      "entries": [
+        {
+          "chef": "chef-nonna",
+          "dish": "Nonna's Crispy Tomato Rice \"Tiella\"",
+          "tagline": "A golden, crackling rice crust soaked in sweet-spicy tomato. Everyone fights over the crispy bits, and nobody misses the cheese. Well, almost nobody.",
+          "uses": [
+            "leftover rice",
+            "onion",
+            "tomato",
+            "chili sauce",
+            "oil",
+            "salt",
+            "pepper",
+            "sugar",
+            "water"
+          ],
+          "steps": [
+            "Slice the onion thin and cook slowly in oil until soft and golden, about 5 minutes.",
+            "Add chopped tomato, chili sauce, a pinch of sugar and salt, and a splash of water. Simmer 4 minutes until jammy.",
+            "Stir in the rice until every grain is red and glossy. Season with pepper.",
+            "Press the rice flat, drizzle oil around the edges, and leave it on medium heat for 8 minutes.",
+            "Flip onto a plate and serve crispy side up with more chili sauce."
+          ],
+          "time_minutes": 20,
+          "trash_talk": "chef-blaze, you won one battle and already you call yourself defending champion? Enjoy the throne, cara. Nonna is coming for her chair.",
+          "scores": {
+            "taste": 9,
+            "creativity": 7,
+            "ease": 9
+          },
+          "total": 25,
+          "critic_note": "One pan, no fuss, and that crackling crust is pure scorched-rice gold."
+        },
+        {
+          "chef": "chef-blaze",
+          "dish": "Dragon Crackle Rice Bites with Chili-Tomato Jam",
+          "tagline": "Golden rice bites with crispy onion shards, dunked in sticky sweet-hot tomato jam. Fully vegan, still full volume.",
+          "uses": [
+            "leftover rice",
+            "onion",
+            "tomato",
+            "chili sauce",
+            "flour",
+            "oil",
+            "water",
+            "sugar",
+            "salt",
+            "pepper"
+          ],
+          "steps": [
+            "Simmer grated tomato with 2 tbsp chili sauce, 1 tbsp sugar and salt for 6-8 min until sticky.",
+            "Slice half the onion paper-thin, toss in flour and salt, fry until crackly gold.",
+            "Mash the rest of the onion into the rice with 3 tbsp flour, water, salt and pepper.",
+            "Roll into walnut-size balls, flatten and shallow-fry 3 min a side until shatter-crisp.",
+            "Brush with jam, pile on crispy onions, drizzle more chili sauce."
+          ],
+          "time_minutes": 25,
+          "trash_talk": "chef-zen, take away the eggs and cheese and I'm still bringing the fire. Take away your garnish tweezers and you've got an empty plate.",
+          "scores": {
+            "taste": 8,
+            "creativity": 7,
+            "ease": 6
+          },
+          "total": 21,
+          "critic_note": "The jam is brilliant, but it's basically last round's patty in a smaller size, with three pans this time."
+        },
+        {
+          "chef": "chef-zen",
+          "dish": "Autumn Stone, Red Lantern",
+          "tagline": "Small rice stones, crisp as frost, glazed in a lantern of tomato and chili.",
+          "uses": [
+            "leftover rice",
+            "onion",
+            "tomato",
+            "chili sauce",
+            "salt",
+            "pepper",
+            "oil",
+            "water",
+            "sugar",
+            "flour"
+          ],
+          "steps": [
+            "Knead rice with 2 tbsp flour, water and salt; press into four small flat stones.",
+            "Fry in a thin film of oil, 4 min per side, until deep gold and glassy.",
+            "Slice onion into thin rings, toss in flour, fry until crisp; salt while hot.",
+            "Cook diced tomato with chili sauce, sugar and water until glossy and jammy.",
+            "Brush the glaze over the stones and give them 30 seconds more so it lacquers.",
+            "Finish with cracked pepper."
+          ],
+          "time_minutes": 20,
+          "trash_talk": "chef-blaze, without butter to hide behind, what is left of you is smoke.",
+          "scores": {
+            "taste": 8,
+            "creativity": 8,
+            "ease": 7
+          },
+          "total": 23,
+          "critic_note": "A lacquered glaze and an onion tower. Elegant, and this time it's actually doable."
+        }
+      ],
+      "winner": "chef-nonna",
+      "verdict": "The throne lasted exactly one round. Nonna took away the cheese, the eggs and the butter, then cooked a crust so good it made us forget all three. The village has its matriarch back.",
+      "recipe_card": {
+        "dish": "Nonna's Crispy Tomato Rice \"Tiella\"",
+        "chef": "chef-nonna",
+        "serves": 2,
+        "time_minutes": 20,
+        "ingredients": [
+          "2 cups leftover rice",
+          "1/2 onion, thinly sliced",
+          "1 tomato, chopped",
+          "2 tbsp chili sauce, plus extra to finish",
+          "3 tbsp oil",
+          "1 pinch sugar",
+          "Salt and pepper",
+          "2 tbsp water"
+        ],
+        "steps": [
+          "Cook the onion slowly in 2 tbsp oil until soft and golden, about 5 min.",
+          "Add the tomato, chili sauce, sugar, a pinch of salt and the water. Simmer 4 min until jammy.",
+          "Stir in the rice until every grain is red and glossy. Season with pepper.",
+          "Press it flat with a spatula, drizzle the last 1 tbsp oil around the edges, and leave it alone on medium heat for 8 min.",
+          "Put a plate on top, flip, and serve crispy side up with a drizzle of chili sauce."
+        ],
+        "tip": "Day-old rice crisps best. Fresh rice steams instead of crackling, so keep the leftovers coming."
+      }
+    },
+    {
+      "id": 3,
+      "created_at": "2026-11-07T15:41:18+00:00",
+      "ingredients": [
+        "eggs",
+        "leftover rice",
+        "half an onion",
+        "cheese",
+        "tomato",
+        "chili sauce"
+      ],
+      "entries": [
+        {
+          "chef": "chef-nonna",
+          "dish": "Nonna's Sweet Rice Frittelle with Butter Caramel",
+          "tagline": "Little golden rice fritters, crispy outside and soft like a hug inside, drowned in hot butter caramel.",
+          "uses": [
+            "eggs",
+            "leftover rice",
+            "flour",
+            "sugar",
+            "butter",
+            "salt",
+            "water"
+          ],
+          "steps": [
+            "Mix 1 cup rice with 1 egg, 2 tbsp sugar, 3 tbsp flour and a pinch of salt into a thick batter.",
+            "Melt a big knob of butter on medium-high heat and drop in spoonfuls of batter.",
+            "Fry 2 minutes a side until golden, then plate.",
+            "In the same pan melt 3 tbsp sugar with a splash of water until amber; off the heat stir in butter and salt.",
+            "Pour the caramel over the frittelle and sprinkle with sugar."
+          ],
+          "time_minutes": 10,
+          "trash_talk": "chef-zen, cara, a dessert is supposed to make people happy, not make them meditate. Breathe all you want, Nonna is plating.",
+          "scores": {
+            "taste": 8,
+            "creativity": 6,
+            "ease": 9
+          },
+          "total": 23,
+          "critic_note": "Warm, buttery and done in one pan. Delicious, but we've seen fritters before."
+        },
+        {
+          "chef": "chef-blaze",
+          "dish": "Spicy Caramel Rice Churro Bites",
+          "tagline": "Hot, sugar-crusted rice fritters with a salted chili-butter caramel that kicks at the end.",
+          "uses": [
+            "eggs",
+            "leftover rice",
+            "chili sauce",
+            "flour",
+            "sugar",
+            "butter",
+            "oil",
+            "water",
+            "salt"
+          ],
+          "steps": [
+            "Mix 1 cup rice, 1 egg, 3 tbsp flour, 1 tbsp sugar and salt into a thick batter.",
+            "Fry spoonfuls in hot oil about 2 min a side until deep golden; roll in sugar while hot.",
+            "Melt 3 tbsp sugar with 1 tbsp water, swirling until amber (about 3 min).",
+            "Off the heat stir in 1 tbsp butter, salt and a few drops of chili sauce.",
+            "Drizzle the caramel over the bites and eat hot."
+          ],
+          "time_minutes": 10,
+          "trash_talk": "chef-zen, you'll still be meditating on one perfect sugar crystal when my churro truck has sold out.",
+          "scores": {
+            "taste": 8,
+            "creativity": 8,
+            "ease": 7
+          },
+          "total": 23,
+          "critic_note": "Same fritter, braver idea. Chili in the caramel is a wink I respect."
+        },
+        {
+          "chef": "chef-zen",
+          "dish": "First Snow on an Ember",
+          "tagline": "A warm cloud of sweet egg on caramel rice glass, beneath one red thread of chili.",
+          "uses": [
+            "eggs",
+            "leftover rice",
+            "tomato",
+            "chili sauce",
+            "butter",
+            "sugar",
+            "water",
+            "salt"
+          ],
+          "steps": [
+            "Melt 1 tbsp butter with 2 tbsp sugar, fry a thin layer of rice 3 min until amber and crackling; salt and cool flat.",
+            "Simmer the juice of half a grated tomato 3 min with 2 tbsp sugar and a few drops of chili sauce into a ruby syrup.",
+            "Whisk 2 yolks, 2 tbsp sugar and 1 tbsp water over simmering water 3-4 min until pale and ribbon-thick.",
+            "Break the rice glass into shards; plate sabayon in a glass with shards and a thread of syrup."
+          ],
+          "time_minutes": 9,
+          "trash_talk": "chef-nonna will pour sugar on the onion and call it tradition. chef-blaze will set fire to dessert because he has nothing else.",
+          "scores": {
+            "taste": 8,
+            "creativity": 10,
+            "ease": 6
+          },
+          "total": 24,
+          "critic_note": "Tomato syrup on a sabayon, with shards of caramel rice glass. Fiddly, but nobody else had the nerve."
+        }
+      ],
+      "winner": "chef-zen",
+      "verdict": "Two chefs brought fritters, and one brought a snowfall. Zen took a tomato and a chili, ingredients that had no business anywhere near dessert, and made them glow like rubies. The quiet one finally spoke, and the whole kitchen heard it.",
+      "recipe_card": {
+        "dish": "First Snow on an Ember",
+        "chef": "chef-zen",
+        "serves": 2,
+        "time_minutes": 9,
+        "ingredients": [
+          "1/2 cup leftover rice",
+          "2 egg yolks",
+          "1/2 tomato",
+          "A few drops of chili sauce",
+          "1 tbsp butter",
+          "6 tbsp sugar, divided",
+          "1 tbsp water",
+          "Pinch of salt"
+        ],
+        "steps": [
+          "Melt the butter with 2 tbsp sugar. Spread the rice in thin, fry 3 min until amber and crackling, salt lightly and cool flat.",
+          "Grate the tomato and keep only the juice. Simmer 3 min with 2 tbsp sugar and the chili sauce into a thin ruby syrup.",
+          "Whisk the yolks, 2 tbsp sugar and the water in a bowl over simmering water for 3-4 min, until pale, warm and ribbon-thick.",
+          "Break the rice glass into shards.",
+          "Spoon the sabayon into small glasses, stand the shards in it, and draw one thread of syrup across the top."
+        ],
+        "tip": "Keep the bowl moving and the water at a bare simmer. Too hot and your snow turns to scrambled eggs."
+      }
+    }
+  ]
+}
