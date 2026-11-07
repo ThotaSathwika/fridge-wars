@@ -1,3 +1,8 @@
+---
+layout: default
+title: "I let three AI chefs fight over my leftovers"
+---
+
 # I let three AI chefs fight over my leftovers (and a fourth one judge them)
 
 *How I built Fridge Wars, a voice-driven cooking battle in Telegram, in one evening with Switch.*

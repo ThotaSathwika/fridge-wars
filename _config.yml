@@ -1,0 +1,4 @@
+title: Fridge Wars
+description: Three rival AI chefs battle over what's in your fridge. Built on Switch.
+theme: jekyll-theme-cayman
+exclude: [run.sh, README.md, LICENSE]

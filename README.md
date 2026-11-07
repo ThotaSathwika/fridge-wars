@@ -5,6 +5,8 @@
 Fridge Wars is a personal, playful cooking workflow built on [Switch](https://github.com/sandbox-quantum/switch). Four AI agents live in a Telegram group. You talk to them from your phone, usually by voice with Wispr Flow. They work together in front of you: the critic hosts, the chefs compete and trash-talk each other, and a live scoreboard website updates as each battle ends.
 
 > Submitted to the Switch hackathon, **Best Personal or Creative Workflow** track.
+>
+> 🔴 **Live scoreboard:** https://thotasathwika.github.io/fridge-wars/ · 📝 **Blog post:** https://thotasathwika.github.io/fridge-wars/docs/blog-post.html
 
 ---
 
